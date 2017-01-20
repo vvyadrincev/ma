@@ -1,0 +1,11 @@
+
+фыва
+ывфафыва 
+
+
+wget "http://opencorpora.org/files/export/dict/dict.opcorpora.xml.bz2"
+
+bzip2 -d фыdict.opcorpora.xml.bz2
+
+asdas   dфваыа   аывфа
+佐藤
