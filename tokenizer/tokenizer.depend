@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1487496989 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"TokenizerBuilder.h"
+	"Tokenizer.h"
+
+1487459562 c:\develop\tokenizer-master\tokenizer-master\tokenizer\tokenizerbuilder.h
+	<string>
+	"NFA.h"
+
+1487496863 c:\develop\tokenizer-master\tokenizer-master\tokenizer\nfa.h
+	<string>
+	<stdexcept>
+	<sstream>
+	<vector>
+	<map>
+	<set>
+	<algorithm>
+	<boost/locale/encoding_utf.hpp>
+	"RegexError.h"
+
+1486769524 c:\develop\tokenizer-master\tokenizer-master\tokenizer\regexerror.h
+	<stdexcept>
+
+1487459416 c:\develop\tokenizer-master\tokenizer-master\tokenizer\tokenizer.h
+	"Token.h"
+	"TokenizerBuilder.h"
+	"DFA.h"
+	<istream>
+	<iostream>
+	"StringStream.h"
+
+1487461935 c:\develop\tokenizer-master\tokenizer-master\tokenizer\token.h
+	<string>
+
+1487496874 c:\develop\tokenizer-master\tokenizer-master\tokenizer\dfa.h
+	<string>
+	<vector>
+	<map>
+	<queue>
+	<stack>
+	"DFASet.h"
+	"NFA.h"
+
+1464664692 c:\develop\tokenizer-master\tokenizer-master\tokenizer\dfaset.h
+	<set>
+
+1487461257 c:\develop\tokenizer-master\tokenizer-master\tokenizer\stringstream.h
+	<string>
+
+1487492072 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\dfa.cpp
+	"DFA.h"
+	<iostream>
+
+1464664692 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\dfaset.cpp
+	"DFASet.h"
+
+1487464084 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\nfa.cpp
+	"NFA.h"
+	<iostream>
+
+1487461326 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\stringstream.cpp
+	"StringStream.h"
+
+1487462023 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\token.cpp
+	"Token.h"
+
+1487461761 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\tokenizer.cpp
+	"Tokenizer.h"
+
+1487459580 source:c:\develop\tokenizer-master\tokenizer-master\tokenizer\tokenizerbuilder.cpp
+	"TokenizerBuilder.h"
+	"Tokenizer.h"
+
+1360427112 c:\develop\utf8_v2_3_4\source\utf8.h
+	"utf8/checked.h"
+	"utf8/unchecked.h"
+
+1361111736 c:\develop\utf8_v2_3_4\source\utf8\checked.h
+	"core.h"
+	<stdexcept>
+
+1360427112 c:\develop\utf8_v2_3_4\source\utf8\core.h
+	<iterator>
+
+1360427112 c:\develop\utf8_v2_3_4\source\utf8\unchecked.h
+	"core.h"
+
+1487810679 source:c:\cygwin64\home\tokenizer\dfa.cpp
+	"DFA.h"
+	<iostream>
+
+1487810682 c:\cygwin64\home\tokenizer\dfa.h
+	<string>
+	<vector>
+	<map>
+	<queue>
+	<stack>
+	"DFASet.h"
+	"NFA.h"
+
+1464664692 c:\cygwin64\home\tokenizer\dfaset.h
+	<set>
+
+1487810773 c:\cygwin64\home\tokenizer\nfa.h
+	<string>
+	<stdexcept>
+	<sstream>
+	<vector>
+	<map>
+	<set>
+	<algorithm>
+	<boost/locale/encoding_utf.hpp>
+	"RegexError.h"
+
+1486769524 c:\cygwin64\home\tokenizer\regexerror.h
+	<stdexcept>
+
+1464664692 source:c:\cygwin64\home\tokenizer\dfaset.cpp
+	"DFASet.h"
+
+1487809583 source:c:\cygwin64\home\tokenizer\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"TokenizerBuilder.h"
+	"Tokenizer.h"
+
+1487810920 c:\cygwin64\home\tokenizer\tokenizerbuilder.h
+	<string>
+	"NFA.h"
+
+1487810698 c:\cygwin64\home\tokenizer\tokenizer.h
+	"Token.h"
+	"TokenizerBuilder.h"
+	"DFA.h"
+	<istream>
+	<iostream>
+	"StringStream.h"
+
+1487523238 c:\cygwin64\home\tokenizer\token.h
+	<string>
+
+1487519065 c:\cygwin64\home\tokenizer\stringstream.h
+	<string>
+	<iostream>
+
+1487810749 source:c:\cygwin64\home\tokenizer\nfa.cpp
+	"NFA.h"
+	<iostream>
+
+1487536296 source:c:\cygwin64\home\tokenizer\stringstream.cpp
+	"StringStream.h"
+
+1487522844 source:c:\cygwin64\home\tokenizer\token.cpp
+	"Token.h"
+
+1487810682 source:c:\cygwin64\home\tokenizer\tokenizer.cpp
+	"Tokenizer.h"
+
+1487810141 source:c:\cygwin64\home\tokenizer\tokenizerbuilder.cpp
+	"TokenizerBuilder.h"
+	"Tokenizer.h"
+

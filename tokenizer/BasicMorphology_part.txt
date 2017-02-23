@@ -1,0 +1,151 @@
+What is Morphology?
+Mark Aronoff and
+Kirsten Fudeman
+
+1
+
+MORPHOLOGY AND MORPHOLOGICAL ANALYSIS
+
+1 Thinking about Morphology and
+Morphological Analysis
+
+1.1 What is Morphology?
+1.2 Morphemes
+1.3 Morphology in Action
+1.3.1 Novel words and word play
+1.3.2 Abstract morphological facts
+1.4 Background and Beliefs
+1.5 Introduction to Morphological Analysis
+1.5.1 Two basic approaches: analysis and synthesis
+1.5.2 Analytic principles
+1.5.3 Sample problems with solutions
+1.6 Summary
+Introduction to Kujamaat Jóola
+
+1
+2
+4
+4
+6
+9
+12
+12
+14
+17
+21
+22
+
+mor·phol·o·gy: a study of the structure or form of something
+Merriam-Webster Unabridged
+
+n 1.1 What is Morphology?
+The term morphology is generally attributed to the German poet, novelist,
+playwright, and philosopher Johann Wolfgang von Goethe (1749–1832),
+who coined it early in the nineteenth century in a biological context. Its
+etymology is Greek: morph- means ‘shape, form’, and morphology is the
+study of form or forms. In biology morphology refers to the study of the
+form and structure of organisms, and in geology it refers to the study of
+the conﬁguration and evolution of land forms. In linguistics morphology
+refers to the mental system involved in word formation or to the branch
+
+2
+
+MM
+OR
+O PRH
+PH
+OO
+LO
+LO
+GG
+Y Y A NAD
+N DM M
+O ROPRHP O
+H LOO
+LG
+O IGCI A
+CL
+ALAN
+AN
+AA
+LY
+LY
+S ISSI S
+
+of linguistics that deals with words, their internal structure, and how
+they are formed.
+
+n 1.2 Morphemes
+A major way in which morphologists investigate words, their internal
+structure, and how they are formed is through the identiﬁcation and study
+of morphemes, often deﬁned as the smallest linguistic pieces with a grammatical function. This deﬁnition is not meant to include all morphemes,
+but it is the usual one and a good starting point. A morpheme may consist
+of a word, such as hand, or a meaningful piece of a word, such as the -ed
+of looked, that cannot be divided into smaller meaningful parts. Another
+way in which morphemes have been deﬁned is as a pairing between sound
+and meaning. We have purposely chosen not to use this deﬁnition. Some
+morphemes have no concrete form or no continuous form, as we will see,
+and some do not have meanings in the conventional sense of the term.
+You may also run across the term morph. The term ‘morph’ is sometimes used to refer speciﬁcally to the phonological realization of a
+morpheme. For example, the English past tense morpheme that we spell
+-ed has various morphs. It is realized as [t] after the voiceless [p] of jump
+(cf. jumped), as [d] after the voiced [l] of repel (cf. repelled), and as [@d] after
+the voiceless [t] of root or the voiced [d] of wed (cf. rooted and wedded).
+We can also call these morphs allomorphs or variants. The appearance
+of one morph over another in this case is determined by voicing and the
+place of articulation of the ﬁnal consonant of the verb stem.
+Now consider the word reconsideration. We can break it into three
+morphemes: re-, consider, and -ation. Consider is called the stem. A stem is
+a base morpheme to which another morphological piece is attached. The
+stem can be simple, made up of only one part, or complex, itself made up
+of more than one piece. Here it is best to consider consider a simple stem.
+Although it consists historically of more than one part, most present-day
+speakers would treat it as an unanalyzable form. We could also call consider
+the root. A root is like a stem in constituting the core of the word to which
+other pieces attach, but the term refers only to morphologically simple
+units. For example, disagree is the stem of disagreement, because it is the base
+to which -ment attaches, but agree is the root. Taking disagree now, agree is
+both the stem to which dis- attaches and the root of the entire word.
+Returning now to reconsideration, re- and -ation are both afﬁxes, which
+means that they are attached to the stem. Afﬁxes like re- that go before
+the stem are preﬁxes, and those like -ation that go after are sufﬁxes.
+
+MM
+OR
+n 1.3 Morphology in Action
+We would like to explore the idea of morphology more deeply by
+examining some data. These are examples of morphology in action –
+morphological facts of everyday life.
+
+n 1.3.1 Novel words and word play
+If you had been walking down the street in Ithaca, New York, a few
+years ago, you might have looked up and seen a sign for the music store
+“Rebop,” a name that owes its inspiration to the jazz term rebop.1 Rebop
+was originally one of the many nonsense expressions that jazz musicians
+threw into their vocal improvisations, starting in the early 1920s. In the
+1940s, rebop became interchangeable with bebop, a term of similar origin,
+as the term for the rhythmically and harmonically eccentric music
+played by young black musicians. By the 1950s the name of this musical
+style was quite ﬁrmly established as simply bop.2 Today, the original use
+of rebop is known only to cognoscenti, so that most people who pass
+by the store will be likely to interpret the word as composed of the
+word bop and the preﬁx re-, which means approximately ‘again’. This
+preﬁx can attach only to verbs, so we must interpret bop as a verb here.
+Rebop must therefore mean ‘bop again’, if it means anything at all.
+And this music store, appropriately, specialized in selling used CDs.
+There’s something going on here with English morphology. Of course,
+rebop is not a perfectly well-formed English word. The verb bop means
+something like ‘bounce’, but the preﬁx re- normally attaches only to a
+verb whose meaning denotes an accomplishment. The verb rebop therefore makes little sense. But names of stores and products are designed
+to catch the consumer’s attention, not necessarily to make sense, and
+this one does so by exploiting people’s knowledge of English in a fairly
+complex way and breaking the rules so as to attract attention, as verbal
+art often does.
+Consider now the following phrases, taken from a Toni Braxton song:
+Unbreak my heart, uncry these tears.
+We have never seen anyone unbreak something, and you certainly can’t
+uncry tears, but every English speaker can understand these words. We
+all know what it means to unbreak somebody’s heart or to wish that
+one’s heart were unbroken. If we asked somebody, “unbreak my heart,”
+we would be asking them to reverse the process of having our heart
+
